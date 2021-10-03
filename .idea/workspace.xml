@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7b831b-d0dd-4f49-b3ef-2982535f60a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/21575c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/2cae419.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/44f3fc8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/5feb51a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/7529f4d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/77271f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/a825d3a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/ad2a6ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/bf067e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/dda7260.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/f464b12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/fe7e206.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/9.b248fd2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.10643e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.49b98de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.5f4b930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.aa55e86.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.c63b643.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.ce5f6c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.d075934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/Rectangle_49.d9f7002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/arrow-scroll-top.4c9fd57.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/arrow-scroll.46c054c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/backgroud_our_products.fbde17b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/background_cycle.fb01ec2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/background_wave.19d1760.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/banner.b7ce74e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/bg-product.062cfa0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/buildings.825a4cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-10.55802b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-11.4f86f3e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-12.9d4c2c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-2.ad4c0ce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-3.fac9b3b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-4.2a59763.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-5.3b8f2ef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-6.e62ba08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-7.7cc3bac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-8.7084c3e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/client-9.90a8f57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/cycle-mobile.9c6686b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/flag-eng.3bb97b1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/footer-1.8a2d1af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/footer-2.23631e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/footer-3.fa257e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/footer4.46a9345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/header_wave.32656fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/hogaming.fdec6d8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/iovation.591260c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/logo.cfddb34.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/maps.ee601f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/mask_group.4cf6dbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/mobile-footer-1.d184bff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/partner.7f50973.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/sbtech.c1d2847.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/seon.24c8ae0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/title_banner.1127c49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/vivo.cf2a866.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yzj2FbLgoz9hBO5fgmdjDz7wHa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7b831b-d0dd-4f49-b3ef-2982535f60a7" name="Changes" comment="" />
+      <created>1633261101629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633261101629</updated>
+      <workItem from="1633261102885" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

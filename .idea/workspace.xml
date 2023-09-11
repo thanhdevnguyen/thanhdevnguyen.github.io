@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7b831b-d0dd-4f49-b3ef-2982535f60a7" name="Changes" comment="" />
+    <list default="true" id="cb7b831b-d0dd-4f49-b3ef-2982535f60a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
       <workItem from="1692091966362" duration="1675000" />
       <workItem from="1693038101206" duration="832000" />
       <workItem from="1693055344837" duration="598000" />
-      <workItem from="1694308348054" duration="1422000" />
+      <workItem from="1694308348054" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="update site to dangbogialai">
       <created>1660010071168</created>
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694321460270</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dicol new">
+      <created>1694330367090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694330367090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

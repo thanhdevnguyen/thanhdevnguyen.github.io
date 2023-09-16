@@ -50,6 +50,7 @@
       <workItem from="1694491261527" duration="2423000" />
       <workItem from="1694680261059" duration="652000" />
       <workItem from="1694743968497" duration="7000" />
+      <workItem from="1694773219987" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="update site to dangbogialai">
       <created>1660010071168</created>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694680311897</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hi dicol">
+      <created>1694773275876</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694773275876</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,7 @@
     <MESSAGE value="dicol update update" />
     <MESSAGE value="dicol" />
     <MESSAGE value="final dicol" />
-    <option name="LAST_COMMIT_MESSAGE" value="final dicol" />
+    <MESSAGE value="hi dicol" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi dicol" />
   </component>
 </project>

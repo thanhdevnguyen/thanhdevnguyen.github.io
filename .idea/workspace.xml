@@ -13,7 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yzj2FbLgoz9hBO5fgmdjDz7wHa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +52,8 @@
       <workItem from="1694491261527" duration="2423000" />
       <workItem from="1694680261059" duration="652000" />
       <workItem from="1694743968497" duration="7000" />
-      <workItem from="1694773219987" duration="656000" />
+      <workItem from="1694773219987" duration="1290000" />
+      <workItem from="1694836855745" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="update site to dangbogialai">
       <created>1660010071168</created>
@@ -129,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694773275876</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="hi dicol">
+      <created>1694829320681</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694829320681</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
